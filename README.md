@@ -4,8 +4,11 @@
 
 ##### The final project consists of 4 milestones:
 **Milestone 1:** Describe an element of cloud security that will be the focus of your project, including resources that will help you deploy a service.
+
 **Milestone 2:** Design a cloud computing environment for an example organization and a plan to deploy for an example organization
+
 **Milestone 3:** Deploy a functional cloud environment for your example organization and test the functionality.
+
 **Milestone 4:** Could security solution and project site finalization.
 ___
 The Element of could security we decided to focus on is "Securing data in transit with a Public Key Infrastructure" as we believe that encryption is an important and interesting part of cybersecurity that we have not had enough practice with.
