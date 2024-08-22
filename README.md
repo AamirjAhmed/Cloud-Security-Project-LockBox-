@@ -10,6 +10,12 @@
 ___
 The Element of could security we decided to focus on is "Securing data in transit with a Public Key Infrastructure" as we believe that encryption is an important and interesting part of cybersecurity that we have not had enough practice with.
 
+## The problem? 
+**No Data secruity service on the market (google drive, dropbox, , etc.) protect highly classified information in a secure manner**
+
+## Our Solution?
+**A service that is user oriented, and protects data without storing it. Data secruity is then in your hands, which is not provided by these mainstream services.**
+
 The main product we are deploying is a secure file and sharing service that guarantees security in a manner that no current mainstream service could provide. 
 
 Imagine a world where you hold secrets. Not just any secrets, secrets that carry national burden. Maybe in this world you must keep a diary, password or confidential information out of the hands of anyone people to pry. In our fictional company, we deploy the use of our service LockBox, to make sure that only the client and authorized individuals have access to their information.  There is always someone who can access it, or even remove your access at will with current services. LockBox is user oriented. You control your encryption and decryption, file transfers and data manipulation. We provide an easier method to realizing your data security dreams. 
