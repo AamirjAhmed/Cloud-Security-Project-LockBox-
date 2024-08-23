@@ -1,6 +1,8 @@
 # LockBox
 
-### This is a Repo made by Aamir Ahmed and Griffin Speidel to document and showcase our product LockBox, for our final project of COSC 55: Security and Privacy.
+# This is a Repo made by Aamir Ahmed and Griffin Speidel to document and showcase our product LockBox, for our final project of COSC 55: Security and Privacy.
+
+## For detailed descriptions, refer to the wiki tab (includes steps for milestones)
 
 ##### The final project consists of 4 milestones:
 **Milestone 1:** Describe an element of cloud security that will be the focus of your project, including resources that will help you deploy a service.
